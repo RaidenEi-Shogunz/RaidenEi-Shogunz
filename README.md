@@ -70,25 +70,36 @@
 ### 📊 Chiến Tích (GitHub Stats)
 
 <div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RaidenEi-Shogunz&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <!-- Trophies đã được tối ưu màu sắc Lôi Thần -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RaidenEi-Shogunz&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&theme=dracula&bg_color=000000&hide_border=false&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&theme=dracula&bg_color=000000&hide_border=false&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2" height="180" />
+  <a href="https://github.com/RaidenEi-Shogunz">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidenEi-Shogunz&theme=dracula&background=000000&border=8A2BE2&ring=BA55D3&fire=9400D3&currStreakLabel=d8b4e2" height="180" />
+  <a href="https://github.com/RaidenEi-Shogunz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Torn to Oblivion!" ⚡</i>
+  <a href="https://github.com/RaidenEi-Shogunz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidenEi-Shogunz&theme=dracula&background=000000&border=8A2BE2&ring=BA55D3&fire=9400D3&currStreakLabel=d8b4e2" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=2000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Torn+to+Oblivion!+⚡;Inazuma+Shines+Eternal!+🗡️" alt="Typing Quote" />
 </div>
