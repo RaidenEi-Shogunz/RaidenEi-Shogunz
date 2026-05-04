@@ -46,23 +46,52 @@
 </div>
 
 ---
+---
 
 ### 🗡️ Các Lưỡi Đao (Top Repositories)
 
 <div align="center">
-  <a href="https://github.com/RaidenEi-Shogunz/IotNhaKinh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=IotNhaKinh&bg_color=1a0533&border_color=4B0082&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/RaidenEi-Shogunz/NarukamiNews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=NarukamiNews&bg_color=1a0533&border_color=4B0082&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400" />
-  </a>
-  <br/>
-  <a href="https://github.com/RaidenEi-Shogunz/QuanLyTKB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=QuanLyTKB&bg_color=1a0533&border_color=4B0082&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/RaidenEi-Shogunz/AgileSystem32BDU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=AgileSystem32BDU&bg_color=1a0533&border_color=4B0082&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [⚡ IotNhaKinh](https://github.com/RaidenEi-Shogunz/IotNhaKinh)
+Hệ thống IoT Nhà Kính Thông Minh VIP PRO — RTOS Scheduler, PID Controller, AI Agronomist, PWA, Dynamic Island.
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=BA55D3)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0533?style=flat-square&logo=fastapi&logoColor=BA55D3)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=BA55D3)
+
+</td>
+<td width="50%" valign="top">
+
+### [📰 NarukamiNews](https://github.com/RaidenEi-Shogunz/NarukamiNews)
+Ứng dụng đọc báo RSS hợp pháp, cá nhân hóa và hoạt động offline trên Android.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-1a0533?style=flat-square&logo=kotlin&logoColor=BA55D3)
+![Android](https://img.shields.io/badge/Android-1a0533?style=flat-square&logo=android&logoColor=BA55D3)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [📅 QuanLyTKB](https://github.com/RaidenEi-Shogunz/QuanLyTKB)
+Hệ thống quản lý thời khóa biểu thông minh.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=BA55D3)
+
+</td>
+<td width="50%" valign="top">
+
+### [🏢 AgileSystem32BDU](https://github.com/RaidenEi-Shogunz/AgileSystem32BDU)
+Hệ thống quản lý dự án Agile/Scrum cho nhóm phát triển phần mềm.
+
+![HTML](https://img.shields.io/badge/HTML-1a0533?style=flat-square&logo=html5&logoColor=BA55D3)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -70,37 +99,19 @@
 ### 📊 Chiến Tích (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaidenEi-Shogunz&theme=discord&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
-</div>
 
-<br/>
+![RaidenEi-Shogunz's GitHub Stats](https://github-readme-stats-raideneishogunz.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400&count_private=true)
 
-<div align="center">
-  <a href="https://github.com/RaidenEi-Shogunz">
-    <img src="https://github-readme-stats.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400" />
-  </a>
-</div>
+![Top Languages](https://github-readme-stats-raideneishogunz.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&cache_seconds=86400)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=RaidenEi-Shogunz&background=1a0533&border=4B0082&ring=BA55D3&fire=8A2BE2&currStreakLabel=d8b4e2&sideLabels=BA55D3&currStreakNum=d8b4e2&sideNums=d8b4e2&dates=6b5b8a)
 
-<div align="center">
-  <a href="https://github.com/RaidenEi-Shogunz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&cache_seconds=86400" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/RaidenEi-Shogunz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidenEi-Shogunz&background=1a0533&border=4B0082&ring=BA55D3&fire=8A2BE2&currStreakLabel=d8b4e2&sideLabels=BA55D3&currStreakNum=d8b4e2&sideNums=d8b4e2&dates=6b5b8a" />
-  </a>
 </div>
 
 <br/>
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4B0082,100:8A2BE2&height=120&section=footer&text=Torn%20to%20Oblivion!%20⚡&fontSize=24&fontColor=BA55D3&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4B0082,100:8A2BE2&height=120&section=footer&text=Torn%20to%20Oblivion!%20%E2%9A%A1&fontSize=24&fontColor=BA55D3&animation=twinkling" width="100%" />
 
 </div>
