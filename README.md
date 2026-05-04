@@ -1,65 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5b8&height=250&section=header&text=Hello%20World!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&desc=I'm%20RaidenEi-Shogunz&descAlignY=55&descAlign=50" />
+  <!-- Banner Lôi Thần cực cháy -->
+  <img src="https://i.pinimg.com/originals/e8/37/10/e837107764d843ff01844b64eb1f0a1c.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px #8A2BE2;" alt="Raiden Shogun Banner" />
 
+  <br/><br/>
+
+  <!-- Typing SVG Phong cách Inazuma -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=7B5BF6&center=true&vCenter=true&width=500&lines=🌱+IoT+%26+Smart+Agriculture+Enthusiast;🤖+AI+%26+Computer+Vision+Developer;⚡+Android+%26+Full-Stack+Engineer;🔬+Building+Impactful+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&pause=1000&color=BA55D3&center=true&vCenter=true&width=800&lines=⚡+Inazuma+Shines+Eternal!;🗡️+Tearing+through+bugs+like+the+Musou+no+Hitotachi;🤖+Eternity+through+IoT+%26+Artificial+Intelligence;🚀+Full-Stack+%26+Mobile+App+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 Về tôi
-- 🔭 Hiện đang phát triển siêu phẩm: **[Nhà Kính Thông Minh VIP PRO (IotNhaKinh)](https://github.com/RaidenEi-Shogunz/IotNhaKinh)** kết hợp IoT, RTOS Scheduler, và AI Agronomist.
-- 🌱 Đam mê xây dựng các hệ thống kết nối đa nền tảng: Từ **Phần cứng (Sensors/MQTT)**, **Web (FastAPI/TS)** đến **Mobile App (Kotlin)**.
-- 💬 Hỏi tôi về: **Python, Kotlin, TypeScript, IoT, và các giải pháp Agile**.
-- ⚡ Fun fact: *Giao diện tối (Dark Mode) và code không dùng framework thừa là chân ái của tôi!*
-
-### 🛠️ Tech Stack & Kỹ năng
-
 <div align="center">
-  <!-- Backend & IoT -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/MQTT-FF6B35?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <i>"Only through Eternity are you closest to the Heavenly Principles."</i><br>
+  <b>— Raiden Ei</b>
 </div>
 
 ---
 
-### 🏆 Các Dự Án Nổi Bật
+### 🔮 Về vị Tướng Quân này
+- ⚔️ **Sứ mệnh:** Xây dựng hệ thống phần mềm trường tồn với thời gian, bất biến trước mọi runtime error.
+- 🔭 **Vũ khí đang rèn:** **[IotNhaKinh VIP PRO](https://github.com/RaidenEi-Shogunz/IotNhaKinh)** (Sự kết hợp giữa Nông nghiệp và AI).
+- ⚡ **Vision (Tầm nhìn):** Kéo các hệ thống IoT, AI Vision và Mobile App vào chung một Đạo Lôi (Electro).
+- 💬 **Giao thức:** `Python`, `Kotlin`, `FastAPI`, `Vanilla JS`, `MQTT`.
+- ⚡ **Fun fact:** Code của tôi chạy nhanh như tia chớp và lạnh lùng như Lôi Thần!
+
+### ⚡ Nguyên Tố (Tech Stack)
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kotlin-1E1E1E?style=for-the-badge&logo=kotlin&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=BA55D3&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/MQTT-1E1E1E?style=for-the-badge&logo=mqtt&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=BA55D3&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SQLite-1E1E1E?style=for-the-badge&logo=sqlite&logoColor=BA55D3&labelColor=000000" />
+</div>
+
+---
+
+### 🗡️ Các Lưỡi Đao (Top Repositories)
+
+<div align="center">
+  <!-- IotNhaKinh -->
   <a href="https://github.com/RaidenEi-Shogunz/IotNhaKinh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=IotNhaKinh&theme=radium&bg_color=0b0f1a&border_color=00e5b8&title_color=00e5b8&text_color=a3aed0&icon_color=7b5bf6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=IotNhaKinh&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" />
   </a>
+  <!-- NarukamiNews -->
   <a href="https://github.com/RaidenEi-Shogunz/NarukamiNews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=NarukamiNews&theme=radium&bg_color=0b0f1a&border_color=00e5b8&title_color=00e5b8&text_color=a3aed0&icon_color=7b5bf6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=NarukamiNews&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" />
   </a>
   <br/>
+  <!-- QuanLyTKB -->
   <a href="https://github.com/RaidenEi-Shogunz/QuanLyTKB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=QuanLyTKB&theme=radium&bg_color=0b0f1a&border_color=00e5b8&title_color=00e5b8&text_color=a3aed0&icon_color=7b5bf6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=QuanLyTKB&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" />
   </a>
+  <!-- AgileSystem32BDU -->
   <a href="https://github.com/RaidenEi-Shogunz/AgileSystem32BDU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=AgileSystem32BDU&theme=radium&bg_color=0b0f1a&border_color=00e5b8&title_color=00e5b8&text_color=a3aed0&icon_color=7b5bf6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaidenEi-Shogunz&repo=AgileSystem32BDU&theme=dracula&bg_color=000000&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" />
   </a>
 </div>
 
 ---
 
-### 📈 Thống kê GitHub
+### 📊 Chiến Tích (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&theme=radium&hide_border=true&bg_color=0b0f1a&title_color=00e5b8&text_color=a3aed0&icon_color=7b5bf6" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&theme=radium&hide_border=true&bg_color=0b0f1a&title_color=00e5b8&text_color=a3aed0" height="180" />
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RaidenEi-Shogunz&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </div>
 
 <br/>
+
 <div align="center">
-  <i>"Hãy cùng nhau xây dựng tương lai của AI & IoT!"</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&theme=dracula&bg_color=000000&hide_border=false&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2&icon_color=9400D3" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&theme=dracula&bg_color=000000&hide_border=false&border_color=8A2BE2&title_color=BA55D3&text_color=d8b4e2" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidenEi-Shogunz&theme=dracula&background=000000&border=8A2BE2&ring=BA55D3&fire=9400D3&currStreakLabel=d8b4e2" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Torn to Oblivion!" ⚡</i>
 </div>
