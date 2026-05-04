@@ -96,22 +96,36 @@ Hệ thống quản lý dự án Agile/Scrum cho nhóm phát triển phần mề
 
 ---
 
+---
+
 ### 📊 Chiến Tích (GitHub Stats)
 
 <div align="center">
 
-![RaidenEi-Shogunz's GitHub Stats](https://github-readme-stats-raideneishogunz.vercel.app/api?username=RaidenEi-Shogunz&show_icons=true&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&icon_color=8A2BE2&cache_seconds=86400&count_private=true)
+![Repos](https://img.shields.io/badge/Public_Repos-6-BA55D3?style=for-the-badge&labelColor=1a0533)
+![Commits](https://img.shields.io/github/commit-activity/m/RaidenEi-Shogunz/IotNhaKinh?style=for-the-badge&label=Commits%2FMonth&color=BA55D3&labelColor=1a0533)
+![Last Commit](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/IotNhaKinh?style=for-the-badge&label=Last%20Commit&color=8A2BE2&labelColor=1a0533)
 
-![Top Languages](https://github-readme-stats-raideneishogunz.vercel.app/api/top-langs/?username=RaidenEi-Shogunz&layout=compact&bg_color=1a0533&hide_border=true&title_color=BA55D3&text_color=d8b4e2&cache_seconds=86400)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RaidenEi-Shogunz&background=1a0533&border=4B0082&ring=BA55D3&fire=8A2BE2&currStreakLabel=d8b4e2&sideLabels=BA55D3&currStreakNum=d8b4e2&sideNums=d8b4e2&dates=6b5b8a)
+<div align="center">
+
+| 🗡️ Repository | ⚡ Ngôn ngữ | 📦 Trạng thái |
+|:---:|:---:|:---:|
+| [IotNhaKinh](https://github.com/RaidenEi-Shogunz/IotNhaKinh) | ![](https://img.shields.io/github/languages/top/RaidenEi-Shogunz/IotNhaKinh?color=BA55D3&labelColor=1a0533&style=flat-square) | ![](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/IotNhaKinh?color=8A2BE2&labelColor=1a0533&style=flat-square) |
+| [NarukamiNews](https://github.com/RaidenEi-Shogunz/NarukamiNews) | ![](https://img.shields.io/github/languages/top/RaidenEi-Shogunz/NarukamiNews?color=BA55D3&labelColor=1a0533&style=flat-square) | ![](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/NarukamiNews?color=8A2BE2&labelColor=1a0533&style=flat-square) |
+| [QuanLyTKB](https://github.com/RaidenEi-Shogunz/QuanLyTKB) | ![](https://img.shields.io/github/languages/top/RaidenEi-Shogunz/QuanLyTKB?color=BA55D3&labelColor=1a0533&style=flat-square) | ![](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/QuanLyTKB?color=8A2BE2&labelColor=1a0533&style=flat-square) |
+| [AgileSystem32BDU](https://github.com/RaidenEi-Shogunz/AgileSystem32BDU) | ![](https://img.shields.io/github/languages/top/RaidenEi-Shogunz/AgileSystem32BDU?color=BA55D3&labelColor=1a0533&style=flat-square) | ![](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/AgileSystem32BDU?color=8A2BE2&labelColor=1a0533&style=flat-square) |
+| [CV-Diep-Hoang-Thai](https://github.com/RaidenEi-Shogunz/CV-Di-p-Ho-ng-Th-i) | ![](https://img.shields.io/github/languages/top/RaidenEi-Shogunz/CV-Di-p-Ho-ng-Th-i?color=BA55D3&labelColor=1a0533&style=flat-square) | ![](https://img.shields.io/github/last-commit/RaidenEi-Shogunz/CV-Di-p-Ho-ng-Th-i?color=8A2BE2&labelColor=1a0533&style=flat-square) |
 
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4B0082,100:8A2BE2&height=120&section=footer&fontSize=24&fontColor=BA55D3&animation=twinkling" width="100%" />
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:4B0082,100:8A2BE2&height=120&section=footer&text=Torn%20to%20Oblivion!%20%E2%9A%A1&fontSize=24&fontColor=BA55D3&animation=twinkling" width="100%" />
-
+<div align="center">
+  <b>⚡ "Torn to Oblivion!" ⚡</b>
 </div>
